@@ -1,16 +1,16 @@
 {
   "posts": [
-    { creatorId: 1, "id": 1, "title": "Post 1", "description": "one Test blablabsnksjdfuiewdfhe", "startingDate": 19/12/2024, "endingDate": 23/12/2024, "status": true },
-    { creatorId: 1, "id": 2, "title": "Post 2", "description": "two Test blablabsnksjdfuiewdfhe", "startingDate": 19/12/2022, "endingDate": 23/12/2022, "status": false },
-    { creatorId: 2, "id": 3, "title": "Post 333333", "description": "three Test blablabsnksjdfuiewdfhe", "startingDate": 19/12/2022, "endingDate": 23/12/2022, "status": true },
-    { creatorId: 2, "id": 4, "title": "Post 4444444", "description": "four Test blablabsnksjdfuiewdfhe", "startingDate": 19/12/2024, "endingDate": 23/12/2024, "status": false },
-    { creatorId: 1, "id": 5, "title": "Post 5", "description": "five Test blablabsnksjdfuiewdfhe", "startingDate": 19/12/2022, "endingDate": 23/12/2022, "status": false },
-    { creatorId: 3, "id": 6, "title": "Post 6", "description": "six Test blablabsnksjdfuiewdfhe", "startingDate": 19/12/2024, "endingDate": 23/12/2024, "status": false },
-    { creatorId: 1, "id": 7, "title": "Post 7", "description": "sevemn Test blablabsnksjdfuiewdfhe", "startingDate": 19/12/2022, "endingDate": 23/12/2022, "status": true },
+    { "creatorId": 1, "id": 1, "title": "Post 1", "description": "one Test blablabsnksjdfuiewdfhe", "startingDate": "19/12/2024", "endingDate": "23/12/2024", "status": true },
+    { "creatorId": 1, "id": 2, "title": "Post 2", "description": "two Test blablabsnksjdfuiewdfhe", "startingDate": "19/12/2022", "endingDate": "23/12/2022", "status": false },
+    { "creatorId": 2, "id": 3, "title": "Post 333333", "description": "three Test blablabsnksjdfuiewdfhe", "startingDate": "19/12/2022", "endingDate": "23/12/2022", "status": true },
+    { "creatorId": 2, "id": 4, "title": "Post 4444444", "description": "four Test blablabsnksjdfuiewdfhe", "startingDate": "19/12/2024", "endingDate": "23/12/2024", "status": false },
+    { "creatorId": 1, "id": 5, "title": "Post 5", "description": "five Test blablabsnksjdfuiewdfhe", "startingDate": "19/12/2022", "endingDate": "23/12/2022", "status": false },
+    { "creatorId": 3, "id": 6, "title": "Post 6", "description": "six Test blablabsnksjdfuiewdfhe", "startingDate": "19/12/2024", "endingDate": "23/12/2024", "status": false },
+    { "creatorId": 1, "id": 7, "title": "Post 7", "description": "sevemn Test blablabsnksjdfuiewdfhe", "startingDate": "19/12/2022", "endingDate": "23/12/2022", "status": true }
   ],
   "users": [
-    { id: 1, pseudo: "userOne", photo: "", email: "one@gmail.com"},
-        { id: 2, pseudo: "userTwo", photo: "", email: "two@gmail.com"},
-        { id: 3, pseudo: "userThree", photo: "", email: "three@gmail.com"},
-  ],
+    { "id": 1, "pseudo": "userOne", "photo": "", "email": "one@gmail.com"},
+        { "id": 2, "pseudo": "userTwo", "photo": "", "email": "two@gmail.com"},
+        { "id": 3, "pseudo": "userThree", "photo": "", "email": "three@gmail.com"}
+  ]
 }
