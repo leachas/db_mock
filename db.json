@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "publications": [
     { "creatorId": 1, "id": 1, "title": "Post 1", "description": "one Test blablabsnksjdfuiewdfhe", "startingDate": "19/12/2024", "endingDate": "23/12/2024", "status": true },
     { "creatorId": 1, "id": 2, "title": "Post 2", "description": "two Test blablabsnksjdfuiewdfhe", "startingDate": "19/12/2022", "endingDate": "23/12/2022", "status": false },
     { "creatorId": 2, "id": 3, "title": "Post 333333", "description": "three Test blablabsnksjdfuiewdfhe", "startingDate": "19/12/2022", "endingDate": "23/12/2022", "status": true },
