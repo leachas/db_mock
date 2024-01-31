@@ -12,5 +12,8 @@
     { "id": 1, "pseudo": "userOne", "photo": "", "email": "one@gmail.com"},
     { "id": 2, "pseudo": "userTwo", "photo": "", "email": "two@gmail.com"},
     { "id": 3, "pseudo": "userThree", "photo": "", "email": "three@gmail.com"}
+  ],
+  "comments": [
+    {"id": 1, "creatorId": 1, "postId": 2, "content": "Test comment 2137743648736", "title": "Test tirtlreknfwaefwoi328u32u8"}
   ]
 }
