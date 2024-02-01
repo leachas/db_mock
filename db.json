@@ -14,6 +14,6 @@
     { "id": 3, "pseudo": "userThree", "photo": "", "email": "three@gmail.com"}
   ],
   "comments": [
-    {"id": 1, "creatorId": 1, "postTitle": "testtitledneendene", "postId": 2, "content": "Test comment 2137743648736", "date": "01/12/2023"}
+    {"id": 1, "creatorId": 1, "postTitle": "testtitledneendene", "postId": 2, "content": "Test comment 2137743648736", "dateComment": "01/12/2023"}
   ]
 }
