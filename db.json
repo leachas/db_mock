@@ -1,12 +1,12 @@
 {
   "publications": [
-    { "id": 1, "creatorId": 1, "title": "Post 1", "description": "one Test blablabsnksjdfuiewdfhe", "startingDate": "19/12/2024", "endingDate": "23/12/2024", "status": true },
-    { "id": 2, "creatorId": 1, "title": "Post 2", "description": "two Test blablabsnksjdfuiewdfhe", "startingDate": "19/12/2022", "endingDate": "23/12/2022", "status": false },
-    { "id": 3, "creatorId": 2, "title": "Post 333333", "description": "three Test blablabsnksjdfuiewdfhe", "startingDate": "19/12/2022", "endingDate": "23/12/2022", "status": true },
-    { "id": 4, "creatorId": 2, "title": "Post 4444444", "description": "four Test blablabsnksjdfuiewdfhe", "startingDate": "19/12/2024", "endingDate": "23/12/2024", "status": false },
-    { "id": 5, "creatorId": 1, "title": "Post 5", "description": "five Test blablabsnksjdfuiewdfhe", "startingDate": "19/12/2022", "endingDate": "23/12/2022", "status": false },
-    { "id": 6, "creatorId": 3, "title": "Post 6", "description": "six Test blablabsnksjdfuiewdfhe", "startingDate": "19/12/2024", "endingDate": "23/12/2024", "status": false },
-    { "id": 7, "creatorId": 1, "title": "Post 7", "description": "sevemn Test blablabsnksjdfuiewdfhe", "startingDate": "19/12/2022", "endingDate": "23/12/2022", "status": true }
+    { "id": 1, "creatorId": 1, "title": "Post 1", "description": "one Test blablabsnksjdfuiewdfhe", "startingDate": "2024-12-19T09:24:15,123", "endingDate": "2024-12-23T10:24:15,123", "status": true },
+    { "id": 2, "creatorId": 1, "title": "Post 2", "description": "two Test blablabsnksjdfuiewdfhe", "startingDate": "2024-12-19T09:24:15,123", "endingDate": "2024-12-23T10:24:15,123", "status": false },
+    { "id": 3, "creatorId": 2, "title": "Post 333333", "description": "three Test blablabsnksjdfuiewdfhe", "startingDate": "2022-12-19T09:24:15,123", "endingDate": "2022-12-23T10:24:15,123", "status": true },
+    { "id": 4, "creatorId": 2, "title": "Post 4444444", "description": "four Test blablabsnksjdfuiewdfhe", "startingDate": "2024-12-19T09:24:15,123", "endingDate": "2024-12-23T10:24:15,123", "status": false },
+    { "id": 5, "creatorId": 1, "title": "Post 5", "description": "five Test blablabsnksjdfuiewdfhe", "startingDate": "2022-12-19T09:24:15,123", "endingDate": "2022-12-23T10:24:15,123", "status": false },
+    { "id": 6, "creatorId": 3, "title": "Post 6", "description": "six Test blablabsnksjdfuiewdfhe", "startingDate": "2024-12-19T09:24:15,123", "endingDate": "2024-12-23T10:24:15,123", "status": false },
+    { "id": 7, "creatorId": 1, "title": "Post 7", "description": "sevemn Test blablabsnksjdfuiewdfhe", "startingDate": "2022-12-19T09:24:15,123", "endingDate": "2022-12-23T10:24:15,123", "status": true }
   ],
   "users": [
     { "id": 1, "pseudo": "userOne", "photo": "", "email": "one@gmail.com"},
